@@ -2,7 +2,7 @@
 
 __pkgname__     = 'myproject'
 __version__     = '0.0.0'
-__authors__     = 'Arit Patel'
+__authors__     = 'Akash Dhruv'
 __license__     = 'MIT License'
-__copyright__   = 'Copyright (c) Arti Patel 2021. All Rights Reserved.'
+__copyright__   = 'Copyright (c) Akash Dhruv 2022. All Rights Reserved.'
 __description__ = 'My Data Science Project'
