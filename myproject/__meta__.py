@@ -1,4 +1,4 @@
-"""Metadata for myproject""
+"""Metadata for myproject"""
 
 __pkgname__     = 'myproject'
 __version__     = '0.0.0'
